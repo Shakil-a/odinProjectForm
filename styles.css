@@ -1,0 +1,10 @@
+
+html, body {
+    height: 100%;
+  }
+
+.left-section{
+    background-image: url(images/daniel-norin-lBhhnhndpE0-unsplash.jpg);
+    height: 100%;
+    background-size: cover;
+}
